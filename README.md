@@ -34,7 +34,7 @@ Interactive practice application for learning Sanskrit Imperative (लोट् 
 
 ## 🚀 Try It Now
 
-**[Launch App](https://YOUR-USERNAME.github.io/sanskrit-lot-practice/)**
+**[Launch App](https://sramaka.github.io/sanskrit-lot-practice/)**
 
 ## 💻 Usage
 
